@@ -1,0 +1,16 @@
+{
+  "name": "lesson-3",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Hanna Z.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./common.js/import.js",
+    "module-test":  "node ./ecmaScriptJs/import.mjs"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}

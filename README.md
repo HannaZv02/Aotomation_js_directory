@@ -1,1 +1,0 @@
-# Aotomation_js_directory
