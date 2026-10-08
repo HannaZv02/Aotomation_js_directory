@@ -1,0 +1,5 @@
+
+const recursiveFn = () => {
+    recursiveFn ();
+}
+recursiveFn();
